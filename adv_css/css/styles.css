@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(105, 28, 154);
+}
+
+#container {
+    background-color: rgb(242, 206, 144);
+    width: 65%;
+    margin: 20px auto;
+    border: 10px solid rgb(155, 134, 80);
+    padding: 20px;
+}
+
+img {
+
+    display:block;
+    margin: 0 auto;
+    width: 400px;
+
+}
+
+
+
+#banner {
+    width: 50%;
+}
+#bannertwo {
+    width: 30%;
+}
+#bannerthree {
+    width: 50%
+}
+.heading_style {
+    text-shadow: 2px 2px 2px rgb(159, 153, 140)
+}
+.school_logo {
+    width: 10%
+}
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: rgb(105, 28, 154);
+    border-radius: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+
+}
+nav li a{
+ display:block;
+ color: rgb(155, 134, 80);
+ font-size: 24px;
+ font-weight: bold;
+ margin: 0 20px;
+ width: 125px;
+ height: 40px;
+ line-height: 40px;
+}
+nav a:hover {
+    background-color: rgb(213, 213, 62);
+}
+h1, h2, h3, footer {
+    text-align: center;
+    color: rgb(104, 90, 53);
+}
+p {
+    text-align: center;
+    font-size: 26px;
+    color: rgb(104, 90, 53);
+}
+h4 {
+    text-align: center;
+}
+li {
+    font-size: 24px;
+    color: rgb(104, 90, 53);
+}
