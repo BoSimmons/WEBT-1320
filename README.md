@@ -6,4 +6,5 @@
     <li><a href="html_intro_to_css/index.html">HTML5 and Intro to CSS</a></li>
     <li><a href="adv_css/index.html">advanced CSS</a></li>
      <li><a href="responsive/index.html">responsive</a></li>
+     <li><a href="finalproject/index.html">FINAL PROJECT</a></li>
 </ul>

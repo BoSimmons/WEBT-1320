@@ -1,0 +1,183 @@
+/* Global styles */
+a {
+    color: #BF5050;
+  }
+iframe{
+    display: block;
+  margin: auto;
+
+    
+   
+  }
+body {
+    background-image: url(https://garden.spoonflower.com/c/14252780/p/f/m/aBu_JWJ-wM8JWHgJGnxeCNGU5CJpLCFl8LdqgJsB_hMFbK6Qu-JH/Punk%20rock%20mohawk%20with%20guitars%20.jpg);
+
+background-repeat: repeat;
+
+background-size: 40% 40%;
+
+float: left;
+
+width: auto;
+}
+
+img {
+    display: block;
+    width: 30%;
+}
+
+#container {
+    background-color: #252932;
+    font-size: 20px;
+    width: 65%;
+    margin: 20px auto;
+    border: 10px solid #BF5050;
+    padding: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+/* moble styles */
+
+
+@media (min-width: 32px) {
+
+    body {
+       
+
+    background-repeat: repeat;
+    
+    background-size: 140% 4%;
+    
+    float: left;
+    
+    width: auto;}
+
+    nav{
+        background-color: #BF5050;
+        padding: .5px;
+        margin-top:10px;
+        text-align: center;
+        font-family: "Lucida Console", "Courier New", monospace;
+    } 
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+    }
+    nav li a {
+        display: block;
+        height: 35px;
+        background-color:#252932;
+        color: #BF5050;
+        font-size: 20px;
+        text-decoration: none;
+        margin-top: 3px;
+        font-family: "Lucida Console", "Courier New", monospace;
+        
+    }
+    nav li a:hover {
+        background-color: #BF5050 ;
+        color: #252932;
+    }
+    main {
+        padding: 20px;
+    }
+    h1, h2, h3 {
+        text-align: center;
+        color:#BF5050;
+        font-family: "Lucida Console", "Courier New", monospace;
+    }
+    img {
+        display:block;
+        margin: 0 auto;
+        width: 80%;
+    }
+    iframe{display:block;
+        margin: 0 auto;
+        width: 80%; }
+    .school_logo {
+        width: 70px
+}
+p {
+    color: #BF5050;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+footer {
+    text-align: center;
+    color: #BF5050;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+#banner {
+    width: 80%;
+}
+#bannertwo {
+    width: 50%;
+}
+#bannerthree {
+    width: 50%
+}
+}
+
+/* tablet styles */
+@media (min-width: 768px) {
+    
+
+nav li{
+    display: inline-block;
+}
+nav li a {
+    width: 125px;
+    height: 30px;
+    line-height: 30px;
+    margin: 5px;
+}#banner {
+    width: 50%;
+}
+#bannertwo {
+    width: 30%;
+}
+#bannerthree {
+    width: 30%
+}
+img {
+    display:block;
+    margin: 0 auto;
+    width: 50%;
+}
+iframe{
+    display:block;
+    margin: 0 auto;
+    width: 50%;   
+}
+.school_logo {
+    width: 90px;
+
+}
+    
+
+}
+/* desktop styles */
+@media (min-width: 1024px) {
+#container {
+    font-size: 20px;
+}
+body {
+    background-image: url(https://garden.spoonflower.com/c/14252780/p/f/m/aBu_JWJ-wM8JWHgJGnxeCNGU5CJpLCFl8LdqgJsB_hMFbK6Qu-JH/Punk%20rock%20mohawk%20with%20guitars%20.jpg);
+
+background-repeat: repeat;
+
+background-size: 40% 40%;
+
+float: left;
+
+width: auto;
+}
+}
+ul {
+    color: #BF5050;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
